@@ -1,0 +1,1 @@
+rm pointer;ln -s /home/bouzaien/challenges/chall2/private pointer
